@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Random VK</string>
+    <string name="extract_data">Извлекаю данные…</string>
+    <string name="extract_user_data">Получаю данные о пользователе…</string>
+    <string name="must_log_in">Для работы приложения необходимо авторизоваиться в ВК!</string>
+
+    <integer name="com_vk_sdk_AppId">7486019</integer>
+
+    <string-array name="many_request">
+        <item>Подождите немного и переходите к следующему посту.</item>
+        <item>Превышено количество запросов!</item>
+    </string-array>
+
+    <string-array name="server_error">
+        <item>"Ошибка сервера.</item>
+        <item>Сервер вернул недействительный ответ!</item>
+    </string-array>
+</resources>
